@@ -3,12 +3,11 @@ html {
   width: 100vw;
 
   /* Start - Wallpaper Sizing & Position */
-  background-image: url("/public/wallpaper.jpg");
+  background-image: url("/public/wallpaper.jpg"),
+    linear-gradient(90deg, rgba(21, 201, 192, 1) 0%, rgba(250, 10, 230, 1) 52%, rgba(21, 201, 192, 1) 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: contain;
   /* End - Wallpaper Sizing & Position */
-
-  
 }
