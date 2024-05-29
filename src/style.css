@@ -11,3 +11,20 @@ html {
   background-size: contain;
   /* End - Wallpaper Sizing & Position */
 }
+
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3.8px);
+  -webkit-backdrop-filter: blur(3.8px);
+}
+
+.box {
+  width: 80%;
+  height: 80%;
+  position: absolute;
+  margin-left: 5%;
+  margin-top: 2%;
+  padding: 50px;
+}
