@@ -3,7 +3,7 @@ html {
   width: 100vw;
 
   /* Start - Wallpaper Sizing & Position */
-  background-image: url("/public/wallpaper.jpg"),
+  background-image: url("wallpaper.jpg"),
     linear-gradient(90deg, rgba(0, 212, 255, 1) 0%, rgba(250, 4, 239, 1) 30%, rgba(255, 0, 239, 1) 68%, rgba(0, 212, 255, 1) 100%);
   background-repeat: no-repeat;
   background-position: center center;
